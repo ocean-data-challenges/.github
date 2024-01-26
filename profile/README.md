@@ -4,7 +4,7 @@
 </p>
 
 <center>
-<a href="https://ocean-data-challenges.github.io"> <h2> For more information check our website: ocean-data-challenges.github.io<h2></a>
+<a href="https://ocean-data-challenges.github.io"> <h2> For more information check our website: ocean-data-challenges.github.io</h2></a>
 </center>
 
 
@@ -14,7 +14,9 @@
 
 
 - **2024-DC SWOT denoising OSE** 
+  
   By Datlas, CLS and IMEDEA
+  
   A challenge CNES on removing the uncorrelated KaRIN instrumental noise from the SWOT data.
 
 - **2022-DC SWOT error calibration Gulf Stream** 
