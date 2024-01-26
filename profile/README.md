@@ -4,6 +4,6 @@
 </p>
 
 <center>
-<a href="ocean-data-challenges.github.io"> For more information check our website: ocean-data-challenges.github.io</a>
+<a href="https://ocean-data-challenges.github.io"> For more information check our website: ocean-data-challenges.github.io</a>
 </center>
 
