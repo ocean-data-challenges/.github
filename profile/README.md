@@ -37,19 +37,27 @@
   A challenge on real conventional nadir mapping at global scales and in regional zooms.
 
 - **2023-DC SSH HF mapping in California OSSE** 
+
   By Datlas and MEOM
+
   A challenge on mapping high frequency SSH with artificial SWOT and nadir data in the Californian SWOT Xover.
 
 - **2023-DC SSH mapping in the Western Med Sea OSE** 
+
   By Datlas and MEOM
+
   A challenge on mapping real conventional altimetric data in the Western Mediterranean Sea.
 
 - **2022-DC Altimetric mapping on a QG model** 
+
   By Datlas and MEOM
+
   A challenge on mapping pseudo altimetric data on a quasi-geostrophic model for educational purposes.
 
 - **2021-DC SSH Mapping in the Gulf Stream OSE** 
+
   By MEOM and CLS
+
   The goal is to investigate how to best reconstruct sequences of SSH maps from real nadir satellite altimetry observations.
 
 - **2020-DC SSH Mapping in the Gulf Stream OSSE**
