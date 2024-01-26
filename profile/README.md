@@ -4,7 +4,7 @@
 </p>
 
 <center>
-<a href="https://ocean-data-challenges.github.io"> For more information check our website: ocean-data-challenges.github.io</a>
+<a href="https://ocean-data-challenges.github.io"> <h2> For more information check our website: ocean-data-challenges.github.io<h2></a>
 </center>
 
 
