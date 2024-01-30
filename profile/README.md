@@ -3,9 +3,6 @@
   <img src="figures/odc-banner.jpg" alt="Alt Text" width="900"/>
 </p>
 
-<center>
-<h1><a href="https://ocean-data-challenges.github.io"><c>  For more information check the ODC website</c></a></h1>
-</center>
 
 
 ## The available data challenges are: 
@@ -66,4 +63,8 @@
 - **2023 OSSE SSC NATL60 GF** 
   By IMT-Atlantique and CLS
   A challenge on inversion of sea surface currents from satellite-derived SST-SSH synergies.
+
+</br>
+
+<h1><c><a href="https://ocean-data-challenges.github.io"> For more information check the ODC website</a></c></h1>
 
