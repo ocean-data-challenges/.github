@@ -66,5 +66,5 @@
 
 </br>
 
-<center><h1><a href="https://ocean-data-challenges.github.io"> For more information check the ODC website 👈🏻 </a></h1></center>
+<center><h1><a href="https://ocean-data-challenges.github.io"> 👉🏻 For more information check the ODC website 👈🏻 </a></h1></center>
 
