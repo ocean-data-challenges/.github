@@ -4,7 +4,7 @@
 </p>
 
 <center>
-<h2><a href="https://ocean-data-challenges.github.io">  For more information check the ODC website</a></h2>
+<h1><a href="https://ocean-data-challenges.github.io"><c>  For more information check the ODC website</c></a></h1>
 </center>
 
 
